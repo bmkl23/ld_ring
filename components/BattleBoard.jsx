@@ -16,7 +16,7 @@ export default function BattleBoard() {
     <>
       <div id="intro">
         <div className="embers" id="embers"></div>
-        <div className="sub">Realms of the Ring</div>
+        <div className="sub">Mighty Ring</div>
         <h1>Battle for the Shadow Kingdom</h1>
         <p className="sinh">A power that has slumbered for ages stirs once more. Between the Queen&apos;s stronghold and the dark realm beyond, the hour of the final battle has come. Gather your warriors, cross the bridge, and defend your kingdom.</p>
         <button id="startBtn">Enter the Battle</button>
